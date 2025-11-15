@@ -38,10 +38,10 @@ Analyzed Medicare claims using Python, Excel, and Tableau to compare CVM vs Non-
 
 ## 📸 Dashboard Preview
 
-![Healthcare Claims Dashboard 1](reports/healthcare_dashboard.png%201.png)
-![Healthcare Claims Dashboard 2](reports/healthcare_dashboard.png%202.png)
-![Healthcare Claims Dashboard 3](reports/healthcare_dashboard.png%203.png)
-![Healthcare Claims Dashboard 4](reports/healthcare_dashboard.png%204.png)
+![Healthcare Claims Dashboard 1](healthcare_dashboard_1.png)
+![Healthcare Claims Dashboard 2](healthcare_dashboard_2.png)
+![Healthcare Claims Dashboard 3](healthcare_dashboard_3.png)
+![Healthcare Claims Dashboard 4](healthcare_dashboard_4.png)
 
 These visuals highlight utilization and cost comparisons between **CVM and Non-CVM** claims, along with provider segmentation and claim frequency insights.
  
